@@ -36,7 +36,7 @@ pip install qrcode[pil]
 
 Chạy tool:
 ```bash
-python qr_generator.py
+python qr_code.py
 ```
 ## 🍎 macOS
 
@@ -49,7 +49,7 @@ pip3 install qrcode[pil]
 
 Chạy tool:
 ```bash
-python3 qr_generator.py
+python3 qr_code.py
 ```
 ## 🐧 Linux (Ubuntu/Debian)
 
@@ -66,5 +66,5 @@ pip3 install qrcode[pil]
 
 Chạy tool:
 ```bash
-python3 qr_generator.py
+python3 qr_code.py
 ```
