@@ -23,8 +23,8 @@ Thư viện qrcode
 
 Mở terminal hoặc command prompt và chạy lệnh sau để tải project về máy:
 ```bash
-git clone https://github.com/haivoDA22TTD/QR_Generator.git
-cd QR_Generator
+git clone https://github.com/haivoDA22TTD/QR_Code_Generator.git
+cd QR_Code_Generator
 ```
 
 ## 🪟 Windows
