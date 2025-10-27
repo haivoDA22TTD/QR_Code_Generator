@@ -13,7 +13,7 @@ Có thể kết hợp tool để chèn mã QR vào tài liệu, trang web, danh 
 
 ## 🛠️ Yêu cầu
 
-Python 3.x
+Python 3
 
 Thư viện qrcode
 
